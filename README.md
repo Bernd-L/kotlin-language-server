@@ -1,3 +1,6 @@
+This fork addresses [an issue](https://github.com/fwcd/kotlin-language-server/issues/306) with region-comment folding.  
+See the "region-comment-fix" branch for details.
+
 # Kotlin Language Server
 [![Release](https://img.shields.io/github/release/fwcd/kotlin-language-server)](https://github.com/fwcd/kotlin-language-server/releases)
 [![Build](https://github.com/fwcd/kotlin-language-server/actions/workflows/build.yml/badge.svg)](https://github.com/fwcd/kotlin-language-server/actions/workflows/build.yml)
